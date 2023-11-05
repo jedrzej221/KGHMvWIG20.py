@@ -11,7 +11,7 @@ An analysis of the correlation between the historical stock price of KGHM and th
 
 This project performs an analysis of the historical stock price data for KGHM (Polish WIG-20) and the WIG-20 index. It calculates the correlation between their daily returns and visualizes the data with a correlation plot.
 
-## Prerequisites
+## Prerequisites 
 
 Before running the code, make sure you have the following dependencies installed:
 
